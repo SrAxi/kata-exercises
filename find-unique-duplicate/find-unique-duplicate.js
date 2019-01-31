@@ -1,4 +1,4 @@
-// ------ Approach #1 ------ //
+// ------ Approach #1 ------ //  ✓
 
 function duplicateOrUnique(array) {
     let maxValue = -Infinity;
