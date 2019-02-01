@@ -4,6 +4,7 @@ Solving a codewars kata for analysing possible winning hands
 https://www.codewars.com/kata/texas-holdem-hands
 
 -------
+## Description:
 
 Texas Hold'em is a Poker variant in which each player is given two "hole cards". Players then proceed to make a series of bets while five "community cards" are dealt. If there are more than one player remaining when the betting stops, a showdown takes place in which players reveal their cards. Each player makes the best poker hand possible using five of the seven available cards (community cards + the player's hole cards).
 
@@ -21,6 +22,7 @@ Possible hands are, in descending order of value:
 
 Given hole cards and community cards, complete the function hand to return the type of hand (as written above, you can ignore case) and a list of ranks in decreasing order of significance, to use for comparison against other hands of the same type, of the best possible hand.
 
+## Some Examples
 ```javascript
 hand(["A♠", "A♦"], ["J♣", "5♥", "10♥", "2♥", "3♦"])
 // ...should return {type: "pair", ranks: ["A", "J", "10", "5"]}
