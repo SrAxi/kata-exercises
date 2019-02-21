@@ -1,6 +1,6 @@
 // --------- Approach #1 --------- //  ✓
 // 28 lines solution
-f=
+f =
     ''
         [
         '\
