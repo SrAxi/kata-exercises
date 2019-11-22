@@ -1,4 +1,4 @@
-# Find unique or duplicate
+# Calculating with Functions
 Solving a codewars kata for doing calculus operations with functions only
 
 https://www.codewars.com/kata/calculating-with-functions/javascript

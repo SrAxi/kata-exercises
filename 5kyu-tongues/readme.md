@@ -1,4 +1,4 @@
-# Find unique or duplicate
+# Tongues
 Solving a codewars kata for decripting text
 
 https://www.codewars.com/kata/tongues/javascript
